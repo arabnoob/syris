@@ -34,3 +34,15 @@ main:AddButton({
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0mom"))()
   	end    
 })
+
+Tab:AddButton({
+
+	Name = "Destroy UI",
+
+	Callback = function()
+
+      		print("button pressed
+
+  	end    
+
+})
