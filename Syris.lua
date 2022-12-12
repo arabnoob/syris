@@ -41,7 +41,7 @@ Tab:AddButton({
 
 	Callback = function()
 
-      		print("button pressed
+      		OrionLib:Destroy()
 
   	end    
 
